@@ -1,4 +1,4 @@
-Hello there
+Hello there!
 
 👋 Hi, I’m Winnie  
 👀 I’m interested in developing automation scripts for QA Testing  
